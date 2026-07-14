@@ -22,14 +22,4 @@ function multiply() {
     local a=$1
     local b=$2
     echo $((a * b))
-<<<<<<< HEAD
 }
-=======
-}
-
-function divide() {
-    local a=$1
-    local b=$2
-    echo $((a / b))
-}
->>>>>>> efa2b79 (Main update: Add divide function and input check to sum)
